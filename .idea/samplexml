@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <firstname>Dilip</firstname>
+    <lastname>Thimiri</lastname>
+    <home>New York</home>
+    <skill name="R"/>
+    <skill name="Python"/>
+    <skill name="SAS"/>
+    <skill name="VBA"/>
+</person>
